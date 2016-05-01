@@ -49,7 +49,3 @@ Matériel
 ## Au musée
 
 * Un écran de projection
-
-
-Procédure d'installation
-==================
